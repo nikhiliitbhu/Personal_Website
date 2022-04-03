@@ -93,9 +93,8 @@ hr{
 .img2
 {
   width:280px;
-float:right;
-
-  border-radius:100%;
+  float:left;
+  margin-right:30px;
 
 }
 
