@@ -13,7 +13,7 @@ h2
 }
 
 p{
-  width:50%;
+  width:80%;
   margin:0 auto 1rem auto;
   line-height: 1.5;
 }
@@ -92,10 +92,12 @@ hr{
 
 .img2
 {
- 
-  float:left;
+  height:250px; width:250px;
+ clear:left;
+  float:right;;
   margin-right:30px;
   border-radius:100%;
+
 }
 
 .mahamantra{
