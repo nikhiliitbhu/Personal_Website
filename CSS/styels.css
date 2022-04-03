@@ -92,14 +92,14 @@ hr{
 
 .img2
 {
-  width:280px;
+ 
   float:left;
   margin-right:30px;
-
+  border-radius:100%;
 }
 
 .mahamantra{
-  width:80%
+  width:80%;
   text-align:center;
 font-family:Dancing Script,cursive;
 margin: 1rem auto;
