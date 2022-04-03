@@ -13,13 +13,22 @@ h2
 }
 
 p{
-  width:75%;
+  width:50%;
   margin:0 auto 1rem auto;
   line-height: 1.5;
 }
 p:hover
 {
   background-color: #B8FFF9;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  background-color: gold;
+  text-decoration: underline;
+  color:white;
 }
 
 .span1:hover
@@ -84,7 +93,8 @@ hr{
 .img2
 {
   width:280px;
-  float:right;
+float:right;
+
   border-radius:100%;
 
 }
@@ -174,4 +184,18 @@ margin: 1rem auto;
    -moz-border-radius: 20px;
    border-radius: 20px;
    text-decoration: none;
+}
+
+.copyright
+{
+  font-weight:lighter;
+  font-size:0.75em;
+  padding:1rem;
+}
+
+.message
+{
+  font-size:0.75em;
+  padding:1rem;
+
 }
