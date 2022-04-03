@@ -1,0 +1,109 @@
+body {
+  background-color: #EFFFFD;
+  margin: 0;
+  text-align: center;
+  font-family:serif;
+  font-size:2rem;
+  color:black;
+}
+
+h2
+{
+  color: #019267;
+}
+
+p{
+  width:60%;
+  margin:0 auto 1rem auto;
+}
+p:hover
+{
+  background-color: #B8FFF9;
+}
+
+.span1:hover
+{
+  color:pink;
+}
+
+.span2:hover
+{
+  color:pink;
+}
+hr{
+  border-style:dotted none none none;
+  width:25%;
+  border-width:10px;
+}
+
+
+.cloud1 {
+  display: inline;
+  position:absolute;
+  right:200px;
+  top:50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+
+.span1 {
+  font-size: 5.625rem;
+  color: red;
+  margin-top:25px;
+  font-family:pacifico;
+  line-height:2;
+}
+.span2 {
+  font-size: 35px;
+  color: red;
+  font-family:pacifico;
+  font-weight:bold;
+}
+
+.division1 {
+  background-color: #B8FFF9;
+
+  animation-name: example;
+  animation-duration: 5s;
+  padding:5px 5px 0 5px;
+}
+
+
+.img
+{
+  height:200px;
+  width:200px;
+  border-radius:100%;
+}
+
+
+.mountain{
+  width:80%;
+  height:50%;
+  position:relative;
+  top:7px;
+}
+
+.profile-pic
+{
+  height:7rem;
+  width:7rem;
+  position:fixed;
+  top:50px;
+  left:50px;
+  border-radius:100%;
+}
+
+.profile-pic2
+{
+  height:15rem;
+  width:15rem;
+  position:relative;
+  top:20px;
+
+  border-radius:100%;
+}
