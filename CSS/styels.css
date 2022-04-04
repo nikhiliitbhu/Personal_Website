@@ -26,7 +26,7 @@ a{
   text-decoration: none;
 }
 a:hover{
-  background-color: gold;
+
   text-decoration: underline;
   color:white;
 }
@@ -51,7 +51,7 @@ hr{
   display: inline;
   position:absolute;
   right:200px;
-  top:50px;
+  top:200px;
 }
 
 .cloud2 {
@@ -92,7 +92,7 @@ hr{
 
 .img2
 {
-  height:10em; 
+  height:10em;
   width:10em;
   float:right;;
   margin-right:30px;
@@ -119,8 +119,8 @@ margin: 1rem auto;
   height:7rem;
   width:7rem;
   position:fixed;
-  top:50px;
-  left:50px;
+  top:60px;
+  left:30px;
   border-radius:100%;
 }
 
@@ -130,7 +130,7 @@ margin: 1rem auto;
   width:15rem;
   position:relative;
   top:20px;
-
+  margin-bottom:3rem;
   border-radius:100%;
 }
 
@@ -198,5 +198,4 @@ margin: 1rem auto;
 {
   font-size:0.75em;
   padding:1rem;
-
 }
